@@ -9,3 +9,6 @@ return a * b
 def subtract(a, b):
 return a - b
 "Добавлена функция вычитания"
+def division(a, b):
+return a / b
+"Добавлена функция деления"
