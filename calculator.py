@@ -6,3 +6,6 @@ print(add(2,3))
 def multiply(a,b):
 return a * b
 "Добавлена функция умножения"
+def subtract(a, b):
+return a - b
+"Добавлена функция вычитания"
